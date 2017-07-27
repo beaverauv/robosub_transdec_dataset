@@ -1,0 +1,1 @@
+<annotation><object><name>bin_cover</name><bndbox><xmin>296</xmin><ymin>272</ymin><xmax>544</xmax><ymax>477</ymax></bndbox></object><object><name>torpedo_hole</name><bndbox><xmin>131</xmin><ymin>73</ymin><xmax>171</xmax><ymax>108</ymax></bndbox></object></annotation>

@@ -1,0 +1,1 @@
+<annotation><object><name>qual_gate</name><bndbox><xmin>317</xmin><ymin>96</ymin><xmax>360</xmax><ymax>276</ymax></bndbox></object><object><name>buoy_red</name><bndbox><xmin>364</xmin><ymin>259</ymin><xmax>376</xmax><ymax>273</ymax></bndbox></object></annotation>

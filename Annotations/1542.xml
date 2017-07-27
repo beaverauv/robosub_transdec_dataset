@@ -1,0 +1,1 @@
+<annotation><object><name>buoy_red</name><bndbox><xmin>173</xmin><ymin>266</ymin><xmax>192</xmax><ymax>289</ymax></bndbox></object><object><name>buoy_green</name><bndbox><xmin>357</xmin><ymin>266</ymin><xmax>377</xmax><ymax>291</ymax></bndbox></object></annotation>

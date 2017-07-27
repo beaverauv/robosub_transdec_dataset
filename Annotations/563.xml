@@ -1,0 +1,1 @@
+<annotation><object><name>object_pickup</name><bndbox><xmin>3</xmin><ymin>184</ymin><xmax>91</xmax><ymax>390</ymax></bndbox></object><object><name>object_dropoff</name><bndbox><xmin>264</xmin><ymin>320</ymin><xmax>525</xmax><ymax>448</ymax></bndbox></object></annotation>
